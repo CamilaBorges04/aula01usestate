@@ -9,12 +9,11 @@ function App() {
   return (
     <div className="App">
       <h1>Minha primeira calculadora em React</h1>
-      <h2>Calcular Soma</h2>
+      <h2>Calcular a Soma</h2>
       <CalculadoraDeSoma/>
       <h2>Calcular Subtração</h2>
       <CalculadoraDeSubtracao/>
     </div>
-  );
 }
 
 export default App;
